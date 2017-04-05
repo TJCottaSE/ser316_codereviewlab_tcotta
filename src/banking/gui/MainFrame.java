@@ -1,3 +1,10 @@
+/*
+  File: MainFrame.java	
+  Author: kevinagary
+  Date:	4/5/17
+  
+  Description: Creates and sets up the GUI for the banking application
+*/
 package banking.gui;
 
 import banking.primitive.core.Account;

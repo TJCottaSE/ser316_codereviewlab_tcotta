@@ -1,3 +1,10 @@
+/*
+  File: ServerSolution.java	
+  Author: kevinagary
+  Date:	4/5/17
+  
+  Description: Implementation of an Account Server
+*/
 package banking.primitive.core;
 
 import java.util.ArrayList;
