@@ -1,3 +1,10 @@
+/*
+  File: Main.java	
+  Author: kevinagary
+  Date:	4/5/17
+  
+  Description: Main entry point for the banking application
+*/
 package banking.gui;
 
 import javax.swing.JFrame;
